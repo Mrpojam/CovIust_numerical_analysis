@@ -1,0 +1,5 @@
+,population,population_density,gdp_per_capita,human_development_index,diabetes_prevalence,female_smokers,male_smokers,hospital_beds_per_thousand,country
+0,25788217.0,3.202,44648.71,0.944,5.07,13.0,16.5,3.84,australlia
+1,83900471.0,237.016,45229.245,0.947,8.31,28.2,33.1,8.0,germany
+2,67422000.0,122.578,38605.671,0.901,4.77,30.1,35.6,5.98,france
+3,46745211.0,93.105,34272.36,0.904,7.17,27.4,31.4,2.97,spain
