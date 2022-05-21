@@ -1,5 +1,7 @@
-,population,population_density,gdp_per_capita,human_development_index,diabetes_prevalence,female_smokers,male_smokers,hospital_beds_per_thousand,country
-0,25788217.0,3.202,44648.71,0.944,5.07,13.0,16.5,3.84,australlia
-1,83900471.0,237.016,45229.245,0.947,8.31,28.2,33.1,8.0,germany
-2,67422000.0,122.578,38605.671,0.901,4.77,30.1,35.6,5.98,france
-3,46745211.0,93.105,34272.36,0.904,7.17,27.4,31.4,2.97,spain
+,population,population_density,total_cases,total_deaths,gdp_per_capita,human_development_index,diabetes_prevalence,female_smokers,male_smokers,hospital_beds_per_thousand,country
+10249,25788217.0,3.202,5459012.0,6804.0,44648.71,0.944,5.07,13.0,16.5,3.84,australlia
+61797,83900471.0,237.016,23459628.0,132960.0,45229.245,0.947,8.31,28.2,33.1,8.0,germany
+57905,67422000.0,122.578,27844621.0,144274.0,38605.671,0.901,4.77,30.1,35.6,5.98,france
+152851,46745211.0,93.105,11627487.0,103104.0,34272.36,0.904,7.17,27.4,31.4,2.97,spain
+47689,104258327.0,97.999,511977.0,24522.0,10550.206,0.707,17.31,0.2,50.1,1.6,egypt
+77818,85028760.0,49.831,7208968.0,140854.0,19082.62,0.783,9.59,0.8,21.1,1.5,iran
